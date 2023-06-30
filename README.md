@@ -5,8 +5,8 @@ The Thalassemia Information Portal stands as an extensive online platform commit
 ### This Web  Based Application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link(Github Repository URL)** - https://orange-pond-09eb95c10.3.azurestaticapps.net/   <br>
-**Project Demo URL** -  https://20a31a0539.github.io/FRT_Project0/ <br>
+**Project Link(Github Repository URL)** - https://20a31a0539.github.io/FRT_Project0/   <br>
+**Project Demo URL** - https://orange-pond-09eb95c10.3.azurestaticapps.net/  <br>
 **project demo video link** - https://youtu.be/ecxuZvND93A
 
 ## Azure technologies used for Project
