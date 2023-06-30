@@ -7,7 +7,7 @@ The Thalassemia Information Portal stands as an extensive online platform commit
 
 **Project Link(Github Repository URL)** - https://orange-pond-09eb95c10.3.azurestaticapps.net/   <br>
 **Project Demo URL** -  https://20a31a0539.github.io/FRT_Project0/ <br>
-**project demo video link** - 
+**project demo video link** - https://youtu.be/ecxuZvND93A
 
 ## Azure technologies used for Project
 
