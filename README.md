@@ -48,25 +48,28 @@ Our project utilizes the Azure Static Web App Service to host the information po
    
 
 ### Thalassemia -
-![2](https://github.com/20A31A0539/FRT_Project0/assets/110079803/4e232075-0334-46df-88fd-c9c007a4bdb3)
+![2](https://github.com/20A31A0539/FRT_Project0/assets/110079803/560a6a92-b33d-4318-b50d-56d174b9f702)
+
 
 
 
 
 ### Sickle Cell -
-![3](https://github.com/20A31A0539/FRT_Project0/assets/110079803/b5dac068-3ce2-442e-b2e5-0925c9a52aa6)
+![3](https://github.com/20A31A0539/FRT_Project0/assets/110079803/69ed2ba8-43f8-4a29-b9fa-f9aa8abae6fb)
 
 
 
 
 ### Diagnosis and Treatments -
-![4](https://github.com/20A31A0539/FRT_Project0/assets/110079803/0378a99f-c2f1-4bac-9095-7e649916a6fa)
+![4](https://github.com/20A31A0539/FRT_Project0/assets/110079803/417fc4c1-4604-4fa3-abe5-a06e23fe6e4a)
+
 
 
 
 ### ThalassemiaBot
 
-![5](https://github.com/20A31A0539/FRT_Project0/assets/110079803/9bd2ab88-36fb-492c-8e36-0bb0b4c78770)
+![5](https://github.com/20A31A0539/FRT_Project0/assets/110079803/21adcef1-d099-48d9-a353-dd0caa4fe862)
+
 
 
 
