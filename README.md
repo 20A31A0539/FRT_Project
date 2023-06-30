@@ -48,23 +48,26 @@ Our project utilizes the Azure Static Web App Service to host the information po
    
 
 ### Thalassemia -
-![thalassemia](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/68acb864-0fb3-4503-9bbb-fb6c6012a43d)
+![2](https://github.com/20A31A0539/FRT_Project0/assets/110079803/4e232075-0334-46df-88fd-c9c007a4bdb3)
+
 
 
 
 ### Sickle Cell -
-![sicklecell](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/630f06ef-94ba-4723-931c-623be7201aca)
+![3](https://github.com/20A31A0539/FRT_Project0/assets/110079803/b5dac068-3ce2-442e-b2e5-0925c9a52aa6)
+
 
 
 
 ### Diagnosis and Treatments -
+![4](https://github.com/20A31A0539/FRT_Project0/assets/110079803/0378a99f-c2f1-4bac-9095-7e649916a6fa)
 
-![diagnosis](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/f0a18d92-2732-4dc6-b1c0-2df2a94c86c6)
 
 
 ### ThalassemiaBot
 
-![ThalassemiaBot](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/cf05b4cd-1f7e-4cc8-9217-29f09e01a278)
+![5](https://github.com/20A31A0539/FRT_Project0/assets/110079803/9bd2ab88-36fb-492c-8e36-0bb0b4c78770)
+
 
 
 
