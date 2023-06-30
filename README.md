@@ -41,6 +41,7 @@ Our project utilizes the Azure Static Web App Service to host the information po
 
 
 ![home](https://github.com/Sampath-Vatsavaya/thalassemia/assets/84452919/c2cc4406-59ca-434a-97fc-186da5f7431a)
+![1](https://github.com/20A31A0539/FRT_Project0/assets/110079803/702b14aa-3c0d-4131-bbb3-44a787e7bd63)
 
 
 
